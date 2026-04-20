@@ -222,8 +222,8 @@ The model uses a **Convolutional Neural Network** with:
 
 # 👩‍💻 Author
 
-Khushi Soni
-B.Tech – Computer Science
+Priyanka Sharma
+B.Tech – Computer Science and Engineering(Artificial Intelligence)
 
 ---
 
